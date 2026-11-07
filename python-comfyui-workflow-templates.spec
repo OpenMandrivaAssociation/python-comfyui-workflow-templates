@@ -1,5 +1,5 @@
 Name:		python-comfyui-workflow-templates
-Version:	0.11.101
+Version:	0.11.103
 Release:	1
 Summary:	ComfyUI workflow template bundle
 License:	MIT
@@ -15,7 +15,7 @@ BuildRequires:	python%{pyver}dist(setuptools)
 
 %description
 Meta package for the official ComfyUI workflow templates.
-ComfyUI 0.44.0 pins version 0.11.101. The workflows and preview
+ComfyUI 0.44.2 pins version 0.11.103. The workflows and preview
 media live in the split packages this one requires.
 
 %files
